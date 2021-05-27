@@ -1,6 +1,5 @@
 # Pieni puun tiheyslaskuri
 
-[![JUnit tests](../../actions/workflows/maven.yml/badge.svg)](https://github.com/ohjelmointi2/embedded-tomcat-template/actions) [![Heroku](../../actions/workflows/heroku-deploy.yml/badge.svg)](https://github.com/ohjelmointi2/embedded-tomcat-template/actions/workflows/heroku-deploy.yml) [![GitHub Classroom](../../actions/workflows/classroom.yml/badge.svg)](https://github.com/ohjelmointi2/embedded-tomcat-template/actions/workflows/classroom.yml)
 
 Tämä Git-repositorio sisältää Haaga-Helian Ohjelmointi 2 -kurssilla tehdyn harjoitustyöni. Kyseessä on yksinkertainen puun tiheyslaskuri, jolla voi esimerkiksi laskea pienlentokoneessa käytettävän balsapuun tiheyden.
 
