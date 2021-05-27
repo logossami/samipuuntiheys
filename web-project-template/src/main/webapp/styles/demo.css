@@ -1,0 +1,44 @@
+/* this stylesheet is only used for verifying that serving static files works */
+body {
+	background-color: rgb(230, 227, 228);
+	max-width: 400px;
+	margin: 0 auto;
+	padding-left: 10px;
+	font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif;
+	text-align: center;
+}
+
+h1 {
+	padding-top: 20px;
+	font-size: 2em;
+}
+
+h2 {
+	font-size: 1.5em;
+}
+
+
+li {
+	list-style-type: none;
+	font-size: 1em;
+	border: 2px solid black;
+	background-color: #f7f5f2;
+	padding-top: 20px;
+	padding-right: 5px;
+	padding-bottom: 20px;
+	padding-left: 30px;
+	text-align: center;
+}
+
+.button {
+  background-color: #43b89d;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 40px;
+  cursor: pointer;
+  }
