@@ -1,6 +1,6 @@
 # Pieni puun tiheyslaskuri
 
-Tämä Git-repositorio sisältää Haaga-Helian Ohjelmointi 2 -kurssilla tehdyn harjoitustyöni. Kyseessä on yksinkertainen puun tiheyslaskuri, jolla voi esimerkiksi laskea pienlentokoneessa käytettävän balsapuun tiheyden.
+Tämä repositorio sisältää Haaga-Helian Ohjelmointi 2 -kurssilla tehdyn harjoitustyöni. Kyseessä on yksinkertainen puun tiheyslaskuri, jolla voi esimerkiksi laskea pienlentokoneessa käytettävän balsapuun tiheyden.
 
 Ohjelma on hyvin yksinkertainen eikä sisällä tällä hetkellä tietokantaominaisuuksia. Jatkokehityksessä tarkoituksena on päästä pienen autentikoinnin jälkeen laajempien toiminnallisuuksien sivulle, jossa myös näkyvät tietokannassa tehdyt laskutoimitukset ja mahdollisuus niiden poistamiseen.
 
